@@ -1,0 +1,9 @@
+{
+  "db": {
+    "database": "mysql",
+    "dbname": "pms",
+    "host": "localhost",
+    "username": "root",
+    "password": ""
+  }
+}
